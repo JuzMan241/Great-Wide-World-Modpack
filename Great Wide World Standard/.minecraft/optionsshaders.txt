@@ -1,9 +1,9 @@
-#Sun Nov 07 20:15:18 EST 2021
+#Mon Nov 08 13:26:51 EST 2021
 shaderPack=BSL_v8.1.01.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
-renderResMul=0.8333333
+renderResMul=0.9
 shadowResMul=1.0
 handDepthMul=0.125
 cloudShadow=true
