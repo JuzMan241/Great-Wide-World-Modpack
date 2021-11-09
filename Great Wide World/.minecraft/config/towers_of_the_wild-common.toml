@@ -1,7 +1,7 @@
 
 [towers]
 	#A list of biomes where the towers will not spawn. Default: Rivers, Beaches
-	biomeBlackList = ["minecraft:river", "minecraft:frozen_river", "minecraft:beach", "minecraft:stone_shore", "minecraft:snowy_beach", "biomesoplenty:gravel_beach", "biomesoplenty:white_beach"]
+	biomeBlackList = ["minecraft:river", "minecraft:frozen_river", "minecraft:beach", "minecraft:stone_shore", "minecraft:snowy_beach", "biomesoplenty:gravel_beach", "biomesoplenty:white_beach", "environmental:marsh", "minecraft:swamp"]
 	#Make towers spawn in the ocean. Default: true
 	spawnOceanTowers = true
 	#If the Waytones mod is installed and this is set to true, towers will spawn with a waystone at the top. If the Waystone mod is not installed, this will have no effect. Default: true
