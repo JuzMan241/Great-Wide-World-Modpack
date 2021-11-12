@@ -69,7 +69,7 @@
 #Button to automatically tidy inventories.
 "InventoryTidying enabled" = false
 #A functional block that speeds up cooking of clay, bricks and terracotta.
-"Kilns enabled" = true
+"Kilns enabled" = false
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
 "Lumberjacks enabled" = false
 #Show maps in tooltips.
