@@ -1,1 +1,0 @@
-<tag:items:curios:back>.add(<item:alexsmobs:tarantula_hawk_elytra>);
