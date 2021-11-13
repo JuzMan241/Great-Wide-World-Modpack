@@ -5,6 +5,8 @@ craftingTable.addShaped("saddle_recip", <item:minecraft:saddle>, [
 [<item:minecraft:tripwire_hook>,<item:minecraft:air>,<item:minecraft:tripwire_hook>]]);
 
 # Leather Horse Armor
+craftingTable.removeRecipe(<item:minecraft:leather_horse_armor>);
+
 craftingTable.addShaped("leather_horse_armor", <item:minecraft:leather_horse_armor>, [
 [<item:minecraft:air>,<item:minecraft:air>,<item:minecraft:leather>],
 [<item:farmersdelight:rope>,<item:quark:white_quilted_wool>,<item:farmersdelight:rope>],
