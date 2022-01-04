@@ -114,12 +114,21 @@ key_key.debugInfo:key.keyboard.f3
 key_key.charm.openCraftingTable:key.keyboard.unknown
 key_key.charm.openEnderChest:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.left.control
+key_tetra.toolbelt.binding.access:key.keyboard.b
+key_tetra.toolbelt.binding.restock:key.keyboard.b:SHIFT
+key_tetra.toolbelt.binding.open:key.keyboard.b:ALT
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
+key_key.corpse.death_history:key.keyboard.u
+key_key.elenaidodge.dodge:key.keyboard.left.alt
+key_key.curios.open.desc:key.keyboard.g
+key_key.ship_sail:key.keyboard.o
+key_key.ship_inventory:key.keyboard.i
+key_key.lower_ship_sail:key.keyboard.right.bracket
+key_key.higher_ship_sail:key.keyboard.left.bracket
 key_walljump.key.walljump:key.keyboard.left.shift
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
-key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
-key_key.corpse.death_history:key.keyboard.u
+key_sndctrl.text.soundconfig.open:key.keyboard.u:CONTROL
 key_Camera left:key.keyboard.left
 key_Camera right:key.keyboard.right
 key_Camera closer:key.keyboard.up
@@ -128,13 +137,10 @@ key_Camera up:key.keyboard.page.up
 key_Camera down:key.keyboard.page.down
 key_Swap shoulder:key.keyboard.c
 key_Toggle perspective:key.keyboard.v
-key_key.elenaidodge.dodge:key.keyboard.left.alt
 key_key.astikorcarts.desc:key.keyboard.y
-key_key.curios.open.desc:key.keyboard.g
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_quark.keybind.transfer_insert:key.keyboard.unknown
-key_quark.keybind.transfer_extract:key.keyboard.unknown
-key_quark.keybind.shift_lock:key.keyboard.unknown
+key_quark.keybind.lock_rotation:key.keyboard.k
+key_key.endergetic.booflo_vest:key.keyboard.space
+key_key.endergetic.booflo_slam:key.keyboard.x
 key_quark.emote.no:key.keyboard.t:SHIFT
 key_quark.emote.yes:key.keyboard.y:SHIFT
 key_quark.emote.wave:key.keyboard.f:SHIFT
@@ -153,22 +159,20 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_key.spartanweaponry.access_quiver:key.keyboard.q
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.sort_player:key.mouse.middle
 key_quark.keybind.sort_container:key.mouse.middle
-key_quark.keybind.autorun:key.keyboard.caps.lock
 key_key.inventoryhud.toggle:key.keyboard.i:CONTROL
 key_key.inventoryhud.openconfig:key.keyboard.o:CONTROL
 key_key.inventoryhud.togglepot:key.keyboard.unknown
 key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
-key_key.ship_sail:key.keyboard.o
-key_key.ship_inventory:key.keyboard.i
-key_key.lower_ship_sail:key.keyboard.right.bracket
-key_key.higher_ship_sail:key.keyboard.left.bracket
-key_quark.keybind.lock_rotation:key.keyboard.k
-key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.back:key.mouse.4
+key_quark.keybind.autorun:key.keyboard.caps.lock
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
+key_quark.keybind.shift_lock:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.c:CONTROL
